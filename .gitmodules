@@ -1,0 +1,3 @@
+[submodule "GBS-SNP-CROP"]
+	path = GBS-SNP-CROP
+	url = https://github.com/halelab/GBS-SNP-CROP
